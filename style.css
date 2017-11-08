@@ -15,7 +15,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -51,7 +51,8 @@ h3#header {
 }
 
 .jumbotron {
-  align-items: center;
-  padding: 12px;
-  color:#cccccc;
+  text-align: center;
 }
+main{
+  color:#cccccc;
+  }
