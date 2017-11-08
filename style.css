@@ -50,3 +50,8 @@ h3#header {
   color: #868e96;
 }
 
+.jumbotron {
+  align-items: center;
+  padding: 12px;
+  color:#cccccc;
+}
